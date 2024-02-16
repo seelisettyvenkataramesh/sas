@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25547624227",
+    "project_id": "transmaa-99c07",
+    "storage_bucket": "transmaa-99c07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25547624227:android:88f32702866d01c4480696",
+        "android_client_info": {
+          "package_name": "com.example.sas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFrtBFjtOX0bfKLvoWHO3ykJQVb7cmyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25547624227:android:793ab5c46e18d241480696",
+        "android_client_info": {
+          "package_name": "com.example.splash_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFrtBFjtOX0bfKLvoWHO3ykJQVb7cmyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
